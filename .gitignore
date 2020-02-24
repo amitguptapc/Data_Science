@@ -1,4 +1,5 @@
 .*
 _*
+__*
 !/.gitignore
 tiny-imagenet-200
